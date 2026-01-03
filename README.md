@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<p align="center"><b>Ziad Sameh Behairy</b></p>
+<h2 align="center">Ziad Sameh Behairy</h2>
 
 <div align="center">
 
